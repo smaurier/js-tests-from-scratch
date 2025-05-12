@@ -1,4 +1,4 @@
-# 🧪 JS Testing Journey
+# 🧪 JS Tests from scratch
 
 Bienvenue dans mon dépôt de formation personnelle dédiée aux tests JavaScript / TypeScript.  
 Objectif : maîtriser tous les types de tests modernes (unitaires, intégration, E2E, accessibilité, TDD, BDD) de manière didactique et progressive, en partant de zéro.
