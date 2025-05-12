@@ -84,14 +84,6 @@ Chaque étape contient un petit cours + une démo + un ou plusieurs défis prati
 
 ---
 
-## 🚧 En cours
-
-- [ ] Étape 1 - Terminée
-- [ ] Étape 2 - En cours
-- [ ] Étape 3 - À venir...
-
----
-
 ## 📚 Inspirations
 
 - Kent C. Dodds — Testing JavaScript
