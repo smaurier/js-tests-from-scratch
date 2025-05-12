@@ -34,15 +34,17 @@ Chaque étape contient un petit cours + une démo + un ou plusieurs défis prati
 ### 🔰 Étape 5 — Tests d'accessibilité (axe-core / jest-axe)
 📁 Dossier : `/05-accessibility-tests`
 
-### 🔰 Étape 6 — Introduction au BDD (optionnel)
-📁 Dossier : `/06-bdd-tests`
+### 🔰 Étape 6 — Tester avec **Vitest** (modernisation)
+📁 Dossier : `/06-vitest`
 
-### 🔰 Étape 7 — Tester avec **Vitest** (bonus moderne)
-- Reprise des exercices Jest avec Vitest
-- Différences de config
-- Avantages avec Vite, Svelte, Vue ou React moderne
+---
 
-📁 Dossier : `/07-vitest`
+### 🧩 Bonus — BDD et Cucumber.js *(optionnel)*
+- Syntaxe Gherkin (Given / When / Then)
+- Écriture de scénarios lisibles par tous
+- Mapping des steps vers des fonctions JS
+
+📁 Dossier : `/bonus-bdd-cucumber`
 
 ---
 
